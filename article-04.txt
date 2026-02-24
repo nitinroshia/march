@@ -1,0 +1,40 @@
+Alarmed Indian Officials Race to Tame World-Beating Options Boom
+In the autumn of 2024, a senior Indian securities regulator stood before a room full of money managers and foreign investors with an unusual message: India did not want to be the world’s largest derivatives market.
+
+“This is a crown we don’t wish to wear,” Ashwani Bhatia, then a board member of the Securities and Exchange Board of India said at an event in Mumbai.
+
+The authorities raised the ante 10 days ago, when the Reserve Bank of India curbed lending to stock brokers and proprietary traders. The move targeted the leverage that fueled explosive growth in the derivatives market, where average daily notional turnover reached $5.2 trillion by the end of 2025. The drumbeat of tightening measures and the crackdown on Jane Street Group’s trading practices since Bhatia’s remarks are now threatening to curb volumes and the ambitions of high-frequency trading firms.
+
+There is growing urgency in New Delhi after the RBI warned that excessive leverage may spark a market shock threatening household finances, according to people familiar with the matter. Retail traders lost $33 billion in derivatives in the four years through March 2025, a SEBI study found. Finance ministry officials have fielded complaints from families nursing losses and are concerned that some of last year’s tax breaks and welfare aid may have been used for speculative trades, the people said.
+
+Jane Street, Citadel Securities, Jump Trading and Optiver have all beefed up local operations in recent years alongside a bevy of hedge funds, attracted in part by the nation’s options market.
+
+Spokespeople for SEBI, the finance ministry and the RBI didn’t respond to requests for comment.
+
+The measures are taking a toll. Volume fell last year for the first time since 2016, after peaking at more than 150 billion contracts. Some high-frequency trading houses are discussing scaling back investments, according to people with knowledge of the matter, in a market that drew global attention after Jane Street disclosed $1 billion in profits two years ago.
+
+“I have not seen regulators in India move with as much precision,” said Varun Khandelwal, founder of Gurugram-based Bullero Capital, a proprietary trading shop. “These firms will still trade in India, but they are definitely shy of committing too much capital.”
+
+The new limits on broker lending, following the government’s Feb. 1 tax hike on equity derivatives, add to sweeping restrictions introduced in late 2024 to cool a boom that made India a global options hub. Together, these measures risk making the country less of a priority for global players, executives at high-frequency trading firms said, asking not to be named because the discussions are private.
+
+For regulators, that may be an acceptable cost. The central bank framed its curbs on broker loans as a safeguard for bank balance sheets during a period of global volatility.
+
+Officials fear that in a sharp downturn, losses could spill beyond trading accounts into household budgets, amplified by credit lines and unsecured personal loans. Household debt stood at about 41% of gross domestic product as of March 31, 2025, according to RBI data. Nearly a quarter of household financial assets are now held in stocks and mutual funds, the data show.
+
+“The losses borne by individuals had become comparable to total net inflows into equity mutual funds,” said Ananth Narayan, the former director at SEBI who led the high-profile probe into Jane Street’s trades in India. “A significant amount of household savings that could have gone into long-term capital formation was instead lost in short-term speculative activity.” The US firm has denied any wrongdoing.
+
+Since the pandemic, more than 100 million investors have entered India’s $5.2 trillion equity market, many drawn by stories of quick gains from options bets. Opening an account takes minutes, credit requires little paperwork, and the Unified Payments Interface has grown into a channel for small-ticket loans. Buy-now-pay-later products further blur the line between spending and borrowing.
+
+Much of that money flows into short-term options — among the market’s most volatile instruments. The hope is that they’ll generate quick gains with limited upfront cash, but they often leave retail traders with losses.
+
+By making leverage costlier and raising taxes, authorities aim to curb excessive risk before it becomes a problem, analysts said. Early signs suggest the measures taken since November 2024 are working.
+
+“Volumes have fallen 50% to 60% in some segments, and as a result opportunities have narrowed,” said Sandeep Tyagi, founder of Estee Advisors, a quant-based investment firm.
+
+For now, India remains the top trading venue for listed derivatives. Combined volume on the National Stock Exchange of India Ltd. and the BSE Ltd. totaled 59 billion contracts last year, the most in the world, according to Futures Industry Association Inc. data. Global HFT firms posted strong profit growth for the year ended March 2025, with filings showing Indian units of Jane Street and Hudson River Trading led the pack.
+
+Yet strains are emerging at the NSE — the very platform that powered the boom: volume and profits are falling just as it prepares to go public.
+
+Kanika Pasricha, chief economic adviser at Mumbai-based Union Bank of India, called the regulatory moves “prudent” to halt the excessive risk-taking.
+
+“Sometimes you have to curb aspirations for more sustainable growth,” she said.
