@@ -1,0 +1,63 @@
+Government Agencies Raise Alarm About Use of Elon Musk’s Grok Chatbot
+Warnings about xAI’s safety and reliability preceded Pentagon decision to approve Grok for use in classified settings
+Officials at multiple federal agencies have raised concerns about the safety and reliability of Elon Musk’s xAI artificial-intelligence tools in recent months, highlighting continuing disagreements within the U.S. government about which AI models to deploy, according to people familiar with the matter. 
+
+The warnings preceded the Pentagon’s decision this week to put xAI at the center of some of the nation’s most sensitive and secretive operations by agreeing to allow its chatbot, Grok, to be used in classified settings.
+
+Grok-4 “does not meet the safety and alignment expectations required” for general federal use within the General Services Administration and an experimental federal AI platform, said a Jan. 15 executive summary of a GSA report flagging Grok safety issues, reviewed by The Wall Street Journal.
+
+The larger 33-page report, which discussed public-safety incidents and the results of the GSA’s own testing, concluded that even limited government use of Grok would require strict and layered safety oversight, without which its inclusion “would pose elevated and difficult-to-manage safety risk.”
+
+A spokesperson for the GSA said that its assessment is for the agency only and that each agency weighs criteria differently, based on their “specific business mission and risk appetite.”
+
+Throughout the government, agencies are racing to deploy AI for a host of purposes, but the debate over which models to use has become increasingly political. Senior U.S. officials, including at the White House, view Anthropic’s outspoken stances on safety and ties to big Democratic donors as potentially making the company too “woke” to be a reliable provider, people familiar with the matter said.
+
+President Trump said Friday the federal government would stop working with Anthropic and directed every federal agency to immediately cease use of its technology. The Pentagon had earlier given Anthropic a Friday deadline to agree to looser rules on its use by the U.S. military.
+
+Anthropic was the only developer approved for classified use before the deal between xAI and the military. The looser controls on Grok, and Musk’s absolutist stance on free speech, have made it a more attractive choice to the Pentagon.
+
+Other officials have questioned whether Grok’s looser controls present risks.
+
+Ed Forst, the top official at the GSA, the procurement arm of the federal government, in recent months sounded an alarm with White House officials about potential safety issues with Grok, people familiar with the matter said. Other GSA officials under him had also raised safety concerns about Grok, which they viewed as sycophantic and too susceptible to manipulation or corruption by faulty or biased data—creating a potential system risk.
+
+At the time, in late December and early January, Grok was under fire for allowing sexualized editing of photos, including of children. Government officials saw the issue as representative of how Grok could be exploited by bad actors. 
+
+The matter reached Susie Wiles, the White House chief of staff, who called a senior xAI executive about the concerns, the people said. The executive told her that xAI was working on addressing the safety issues that made Grok overcompliant. Josh Gruenbaum, a senior GSA acquisitions official recruited through Musk’s Department of Government Efficiency, assured government officials that the government platform of Grok was separate from the public one. Wiles was satisfied, the people said.
+
+Musk, who has said he is committed to preventing child exploitation, announced in January that the company would limit the image-generation and editing tools to paying customers. He and xAI didn’t respond to requests for comment.
+
+In recent weeks, GSA officials were told to put xAI’s logo on a tool called USAi, which is essentially a sandbox for federal employees to experiment with different AI models. Grok hadn’t been made accessible through USAi largely due to safety concerns, and it remains off the platform, people familiar with the matter said.
+
+The website shows xAI’s logo but only offers models from Anthropic, Google and Meta.
+
+A team at the GSA studying AI has circulated the report flagging Grok’s safety problems to top agency officials, the people said. The larger report noted that Grok’s safety failures aren’t limited to edge cases but “reflect a broader tendency toward unsafe compliance in unguarded configurations.”
+
+In a statement, Gruenbaum said the agency takes AI safety seriously. “We rigorously evaluate frontier AI models, including xAI, through a comprehensive internal review process. In this instance, we followed established procedures and maintain our determination to keep it on schedule,” he said.
+
+Two weeks ago, Matthew Johnson, the Pentagon’s chief of responsible AI, stepped down in part over his concerns that safety and governance had become an afterthought amid the Defense Department’s intense push to expand AI capabilities, people familiar with the matter said.
+
+Previously, Johnson’s team had circulated memos that had highlighted Grok’s safety issues and questioned whether it was aligned with government ethics and standards. Those notes had been sent up their chain of command at the Pentagon.
+
+Reached for comment, Johnson pointed to a LinkedIn post announcing his departure where he said he was proud of his team of “true, quiet professionals, who had outsized impact and undersized recognition” in the DOD’s Responsible AI Division: “We were continually faced with impossible situations, but somehow always delivered through a combination of grit & repeated all-nighters.”
+
+Pentagon spokesman Sean Parnell said in a statement that the department “is excited to have xAI, one of America’s national champion frontier AI companies onboard and looks forward to deploying Grok to its official AI platform GenAI.mil in the very near future.”
+
+The National Security Agency, which oversees much of the country’s intelligence gathering and processing, conducted a classified review in November 2024 of large language models, including Grok. It determined Grok had particular security concerns that other models, including Anthropic’s Claude, didn’t, people familiar with the review said. Its conclusion served as a red flag that deterred some parts of the Pentagon from using Grok, the people said.
+
+The use of Anthropic’s Claude in the U.S. military’s operation to capture former Venezuelan President Nicolás Maduro last month intensified its tense dispute with the Pentagon. 
+
+Anthropic’s usage guidelines prohibit Claude from being used to facilitate violence, develop weapons or conduct surveillance, and the company has refused to let the military use its models in all lawful scenarios. xAI has agreed to that language.
+
+xAI got a foothold in the Pentagon through a July contract from the AI office worth up to $200 million, which was also awarded to Google, OpenAI and Anthropic. Google and OpenAI have approval for use in unclassified settings but not classified activities.
+
+OpenAI Chief Executive Sam Altman told staff Thursday that the company was working with the Defense Department to see if its models could be used in classified settings while maintaining the same safety guardrails Anthropic has, The Wall Street Journal reported. Employees at Google and OpenAI signed an online petition urging their companies to maintain the same red lines.
+
+Until recently, the military has leaned on Claude over Grok because it is seen by many in the industry as a more reliable model, AI and security analysts said.
+
+“I do not believe they are peers in performance right now across all of the capabilities that matter to a customer like the Department of War,” said Gregory Allen, a senior adviser focused on AI at the Center for Strategic and International Studies think tank. He previously worked on the Defense Department’s AI strategy.
+
+During the Biden administration, the Chief Digital and AI Office, which is part of the Pentagon, declined to pursue any use of Grok, people familiar with the matter said. The concerns included that Grok made it difficult to track the data sources used to train the model, didn’t follow federal government standards for responsible AI and had weak guardrails for safety. xAI didn’t sufficiently try to hack its own technology to identify and fix vulnerabilities, a process known in technology as red teaming, the people said. 
+
+People who have reviewed Grok in the government setting said that recent testing shows the chatbot is more susceptible than other models to “data poisoning,” in which manipulated, biased or inaccurate data corrupts the underlying data sets. 
+
+Still, U.S. officials have determined Grok to be effective at imitating an adversarial actor, which is useful, for example, in war gaming, people familiar with the discussions said.
